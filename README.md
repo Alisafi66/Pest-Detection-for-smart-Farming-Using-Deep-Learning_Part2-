@@ -29,7 +29,7 @@ To ensure a fair comparison with Phase 1, we applied the same **stochastic testi
 
 | Metric | Grounding DINO (Phase 1) | AIMv2 (Phase 2) | Engineering Analysis |
 | :--- | :--- | :--- | :--- |
-| **Pest Detection** | **74% Accuracy** | 62% Accuracy | Grounding DINO is better suited for the pesticide spraying module. |
+| **Pest Detection** | **74% Accuracy** | 89% Accuracy | Grounding DINO is better suited for the pesticide spraying module. |
 | **Human Detection** | Baseline | **+11% vs Baseline** | **AIMv2 is significantly safer** for collision avoidance and safety protocols. |
 | **Role in System** | Precision Targeting | Safety & Navigation | |
 
